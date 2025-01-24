@@ -12,7 +12,7 @@ function Dropdown() {
                     />
                 </summary>
                 <div className='w-[325px] pb-8 bg-purple-200 p-4'>
-                    <img className=' rounded-2xl' src='/public/Image.png'></img>
+                    <img className=' rounded-2xl' src='/Image.png'></img>
                     <p className="pt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
             </details>
@@ -28,7 +28,7 @@ function Dropdown() {
                     />
                 </summary>
                 <div className='w-[325px] pb-8 bg-pink-200 p-4'>
-                    <img className='rounded-2xl' src='/public/Image.png'></img>
+                    <img className='rounded-2xl' src='/Image.png'></img>
                     <p className="pt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
             </details>
@@ -44,7 +44,7 @@ function Dropdown() {
                     />
                 </summary>
                 <div className='w-[325px] pb-8 bg-purple-200 p-4'>
-                    <img className='rounded-2xl' src='/public/Image.png'></img>
+                    <img className='rounded-2xl' src='/Image.png'></img>
                     <p className="pt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
             </details>

@@ -14,7 +14,7 @@ function Introduction() {
             <div className='w-screen place-self-center pl-6 pr-6 pb-6'>
                 <img className='rounded-2xl h-[250px] w-full object-cover' src='/me.png' alt='me in edtech'></img>
             </div>
-            <div className='text-2xl pl-6 pr-6'>
+            <div className='text-2xl pl-6 pr-6 text-center'>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
         </div>
