@@ -49,6 +49,18 @@ function Dropdown() {
                 </div>
             </details>
         </div>
+        <div className='grid grid-cols-2 p-4 pb-8'>
+            <a className='justify-self-start' href={`/`}>
+                <button type='button'>
+                    <span className='text-white font-semibold text-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full px-[50px] p-4'>Back</span>
+                </button>
+            </a>
+            <a className='justify-self-end' href={`/projects`}>
+                <button type='button'>
+                    <span className='text-white font-semibold text-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full px-[50px] p-4'>Next</span>
+                </button>
+            </a>
+            </div>
         </>
     )
 }
