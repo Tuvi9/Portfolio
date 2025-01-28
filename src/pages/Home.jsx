@@ -5,7 +5,8 @@ function Home () {
             <div className='text-center p-8'>
             <a href={`/about`}>
                 <button type='button'>
-                    <span className='text-white font-semibold text-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full px-[75px] p-3'>Click me!</span>
+                    <span className='text-white font-semibold text-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full px-[75px] p-3 hidden lg:inline'>Click me!</span>
+                    <span className='text-white font-semibold text-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full px-[75px] p-3 lg:hidden'>Press me!</span>
                 </button>
             </a>
             </div>
