@@ -11,12 +11,15 @@ function Introduction() {
 
                 </h1>
             </div>
-            <div className='w-screen place-self-center pl-6 pr-6 pb-6'>
-                <img className='rounded-2xl h-[250px] lg:h-[750px] xl:h-[1000px] w-full object-cover' src='/me.png' alt='me in edtech'></img>
-            </div>
-            <div className='text-2xl pl-6 pr-6 text-center lg:px-[50px]'>
-                <span className='lg:hidden'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span>
-                <span className='hidden lg:inline'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+            <div className='w-full place-self-center pl-6 pr-6 pb-6 xl:w-auto xl:flex'>
+                <div className='pt-4'>
+                    <img className='rounded-2xl h-[250px] xl:h-[600px] w-full xl:w-[800px] object-cover xl:object-fill' src='/me.png' alt='me in edtech'></img>
+                </div>
+
+                <div className='xl:w-[400px] text-xl xl:text-2xl pl-6 pr-6 pt-6 text-center xl:text-left xl:px-[50px]'>
+                    <span className='xl:hidden'> <span className='font-extrabold'>Tervist!</span><br></br>Olen Kaspar Pavel ja teie olete jõudnud minu portfoolio peale. siin te tutvute veidi sellega, et kes ma olen, mida olen seniseni saavutanud ja mida mu oskused hõimavad</span>
+                    <span className='hidden xl:inline'><span className='font-extrabold'>Tervist!</span><br/><br/> Olen <span className='underline'>Kaspar Pavel</span> õpin praegu Tartu Rakenduslik Kolledžis tarkavaraarendust. <br/><br/> Mul on ülimalt hea meel on olete sattunud minu E-portfoolio peale siin te tutvute veidi kes ma olen, mida olen seniseni saavutanud ja mida mu oskused hõimavad <br/><br/> <span className='font-extrabold'>Enjoy!</span></span>
+                </div>
             </div>
         </div>
     )
