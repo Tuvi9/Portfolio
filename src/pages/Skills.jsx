@@ -15,10 +15,10 @@ function Skills() {
         <div>
             <div className='row-span-4 p-[3px] bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full max-w-[100px] h-fit'>
                 <div className='grid grid-rows-4 bg-white rounded-full p-4 max-w-[100px] gap-16'>
-                    <img src='/CSS.png'></img>
-                    <img src='/Tailwind.png'></img>
-                    <img src='/Bootstrap.png'></img>
-                    <img src='/HTML.png'></img>
+                    <img className='w-[50px] h-[50px]' src='/CSS.png'></img>
+                    <img className='w-[50px] h-[50px]' src='/Tailwind.png'></img>
+                    <img className='w-[50px] h-[50px]' src='/Bootstrap.png'></img>
+                    <img className='w-[50px] h-[50px]' src='/HTML.png'></img>
                 </div>
             </div>
             <h1 className='text-center text-2xl font-semibold text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal'>Front</h1>
@@ -26,9 +26,9 @@ function Skills() {
         <div>
             <div className='row-span-3 p-[3px] bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full max-w-[100px] h-fit'>
                 <div className='grid grid-rows-3 bg-white rounded-full p-4 max-w-[100px] gap-16'>
-                <img src='/JS.png'></img>
-                <img src='/TS.png'></img>
-                <img src='/Java.png'></img>
+                <img className='w-[50px] h-[50px]' src='/JS.png'></img>
+                <img className='w-[50px] h-[50px]' src='/TS.png'></img>
+                <img className='w-[50px] h-[50px]' src='/Java.png'></img>
                 </div>
             </div>
             <h1 className='text-center text-2xl font-semibold text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal'>Back</h1>
@@ -36,8 +36,8 @@ function Skills() {
         <div>
             <div className='row-span-2 p-[3px] bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full max-w-[100px] h-fit'>
                 <div className='grid grid-rows-2 bg-white rounded-full p-4 max-w-[100px] gap-16'>
-                <img src='/REACT.png'></img>
-                <img src='/Svelte.png'></img>
+                <img className='w-[50px] h-[50px]' src='/REACT.png'></img>
+                <img className='w-[50px] h-[50px]' src='/Svelte.png'></img>
                 </div>
             </div>
             <h1 className='text-center text-2xl font-semibold text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal'>Misc</h1>
