@@ -12,15 +12,15 @@ function Dropdown() {
                     />
                 </summary>
                 <div className='w-[325px] lg:w-[500px] pb-8 bg-purple-200 p-4'>
-                    <img className=' rounded-2xl lg:w-[400px] lg:justify-self-center' src='/Image.png'></img>
-                    <p className="pt-4 lg:text-xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <img className=' rounded-2xl w-[300px] h-[200px] lg:w-[400px] lg:h-[300px] lg:justify-self-center' src='/EdTech.JPG'></img>
+                    <p className="pt-4 lg:text-xl">Viimati eelmine aasta 15.nov osalesid mina ja minu sõbrad võitslusel EdTech2024 kus me pidime looma inovaatilisi õppevahendeid. Peale kolme magamata päeva sündis InternHUB mis on startup millest olen osa veel praegugi.</p>
                 </div>
             </details>
         </div>
         <div className='flex justify-center pt-8'>
             <details className='select-none group'>
                 <summary className='flex w-[325px] lg:w-[500px] lg:h-[75px] text-xl lg:text-2xl items-center justify-between list-none pr-6 pl-6 p-4 border border-purple-500 bg-purple-200'>
-                <span className="text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal relative">Aasta Tegija</span>
+                <span className="text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal relative">StarterTartu</span>
                     <img
                         src='/Chevron right.png'
                         alt='dropdown icon'
@@ -28,8 +28,8 @@ function Dropdown() {
                     />
                 </summary>
                 <div className='w-[325px] lg:w-[500px] pb-8 bg-pink-200 p-4'>
-                    <img className='rounded-2xl lg:w-[400px] lg:justify-self-center' src='/Image.png'></img>
-                    <p className="pt-4 lg:text-xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <img className='rounded-2xl w-[300px] h-[200px] lg:w-[400px] lg:h-[300px] lg:justify-self-center' src='/StarterTartu.png'></img>
+                    <p className="pt-4 lg:text-xl">StarterTartu oli esimest korda kus ma astusin juhirolli kus ma pitchisin oma idee Wisdiphy. Areng kestis sellel umbes 3-4 kuud ja kuigi sellest peale võistlust muud ei saanud õppisin ma palju kuidas meeskonda juhtida.</p>
                 </div>
             </details>
         </div>
@@ -44,8 +44,8 @@ function Dropdown() {
                     />
                 </summary>
                 <div className='w-[325px] lg:w-[500px] pb-8 bg-purple-200 p-4'>
-                    <img className='rounded-2xl lg:w-[400px] lg:justify-self-center' src='/Image.png'></img>
-                    <p className="pt-4 lg:text-xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <img className='rounded-2xl w-[300px] h-[200px] lg:w-[400px] lg:h-[300px] lg:justify-self-center' src='/Noor_meister.PNG'></img>
+                    <p className="pt-4 lg:text-xl">Olen osa võtnud Noor Meistri ettevõtlusalaoskuste alal viimased kaks aastat viimati eelmine aasta sooritasin ma oma klassikaaslasega kõige parema tulemuse.</p>
                 </div>
             </details>
         </div>
