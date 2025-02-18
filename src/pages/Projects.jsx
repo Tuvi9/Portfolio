@@ -106,12 +106,12 @@ function Projects() {
         </div>
             <div className='grid grid-cols-2 p-4 pb-8'>
             <a className='justify-self-start' href={`/about`}>
-                <button type='button' className='rounded-full w-[100px] h-[100px] flex items-center justify-center lg:rounded-lg lg:w-auto lg:h-auto'>
+                <button type='button' className='rounded-full w-[100px] h-[100px] flex items-center justify-center lg:rounded-lg lg:w-auto lg:h-auto xl:cursor-pointer'>
                     <span className='text-white font-semibold text-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full w-full h-full flex items-center justify-center lg:rounded-lg lg:w-auto lg:h-auto px-[50px] p-4'>Back</span>
                 </button>
             </a>
             <a className='justify-self-end' href={`/skills`}>
-                <button type='button' className='rounded-full w-[100px] h-[100px] flex items-center justify-center lg:rounded-lg lg:w-auto lg:h-auto'>
+                <button type='button' className='rounded-full w-[100px] h-[100px] flex items-center justify-center lg:rounded-lg lg:w-auto lg:h-auto xl:cursor-pointer'>
                     <span className='text-white font-semibold text-2xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full w-full h-full flex items-center justify-center lg:rounded-lg lg:w-auto lg:h-auto px-[50px] p-4'>Next</span>
                 </button>
             </a>

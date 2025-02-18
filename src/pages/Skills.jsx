@@ -45,7 +45,7 @@ function Skills() {
         </div>
         <div className='flex p-4 pb-8 justify-center'>
             <a className='justify-self-center ' href={`/`}>
-                <button type='button'>
+                <button type='button' className='xl:cursor-pointer'>
                     <span className='text-blue-500 font-semibold text-2xl bg-white rounded-full px-[100px] p-4'>
                     <span className='text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal relativ'>Back</span>
                     </span>
