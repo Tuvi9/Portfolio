@@ -33,7 +33,7 @@ function Projects() {
                                     />
                                 </summary>
                                 <div className='w-[250px] border-t-0 border bg-white border-blue-500 px-4 group-open: rounded-b-2xl'>
-                                    <p className=''>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p className=''>Hehe! See on see sama portfoolio mille peal te praegu olete. </p>
                                     <div className='flex py-4'>
                                         <img className='w-[50px] h-[50px]' src='/REACT.png'/>
                                         <img className='w-[50px] h-[50px]' src='/Vite.png'/>
@@ -63,7 +63,7 @@ function Projects() {
                             />
                         </summary>
                         <div className='w-[250px] border-t-0 border bg-white border-purple-500 px-4 group-open: rounded-b-2xl'>
-                            <p className=''>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p className=''>Raamatupidamis teenuste leht mille klient soovib oma enda ettevõttet esile tõsta mis on praegu veel in production.</p>
                             <div className='flex py-4'>
                                 <img className='w-[50px] h-[50px]' src='/REACT.png'/>
                                 <img className='w-[50px] h-[50px]' src='/Vite.png'/>
@@ -92,7 +92,7 @@ function Projects() {
                             />
                         </summary>
                         <div className='w-[250px] border-t-0 border bg-white border-red-500 px-4 group-open: rounded-b-2xl'>
-                            <p className=''>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p className=''>AnimeRanked on minu kõige suurim iseseisev projekt mis ma olen ettevõtnud. Tulvikus on mul eesmärgiks see välja panna maksva teenusena.</p>
                             <div className='flex py-4'>
                                 <img className='w-[50px] h-[50px]' src='../../public/CSS.png'/>
                                 <img className='w-[50px] h-[50px]' src='/JS.png'/>
