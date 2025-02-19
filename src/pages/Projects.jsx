@@ -94,7 +94,7 @@ function Projects() {
                         <div className='w-[250px] border-t-0 border bg-white border-red-500 px-4 group-open: rounded-b-2xl'>
                             <p className=''>AnimeRanked on minu kõige suurim iseseisev projekt mis ma olen ettevõtnud. Tulvikus on mul eesmärgiks see välja panna maksva teenusena.</p>
                             <div className='flex py-4'>
-                                <img className='w-[50px] h-[50px]' src='../../public/CSS.png'/>
+                                <img className='w-[50px] h-[50px]' src='/CSS.png'/>
                                 <img className='w-[50px] h-[50px]' src='/JS.png'/>
                                 <img className='w-[50px] h-[50px]' src='/Supabase.png'/>
                             </div>
