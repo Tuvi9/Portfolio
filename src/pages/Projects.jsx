@@ -23,7 +23,7 @@ function Projects() {
                         </a>
                     <div>
                         <div className='flex justify-center  pb-8'>
-                            <details className='select-none group'>
+                            <details className='select-none group [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden'>
                                 <summary className='flex w-[250px] text-xl items-center justify-between list-none pr-6 pl-6 p-4 border border-blue-500 rounded-b-xl  bg-white  group-open:border-b-0 group-open:rounded-b-none'>
                                 <span className='text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal  relative'>E-portfoolio</span>
                                     <img
@@ -53,7 +53,7 @@ function Projects() {
                     </a>
                     <div className='flex justify-center  pb-8'>
 
-                    <details className='select-none group'>
+                    <details className='select-none group [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden'>
                         <summary className='flex w-[250px] text-xl items-center justify-between list-none pr-6 pl-6 p-4 border border-purple-500 rounded-b-xl  bg-white  group-open:border-b-0 group-open:rounded-b-none'>
                         <span className='text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal  relative'>Kedi-Raamatupidamine</span>
                             <img
@@ -82,7 +82,7 @@ function Projects() {
                     </a>
                     <div className='flex justify-center  pb-8'>
 
-                    <details className='select-none group'>
+                    <details className='select-none group [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden'>
                         <summary className='flex w-[250px] text-xl items-center justify-between list-none pr-6 pl-6 p-4 border border-red-500 rounded-b-xl  bg-white  group-open:border-b-0 group-open:rounded-b-none'>
                         <span className='text-transparent bg-radial-[at_0%_50%] from-blue-500 via-purple-500 to-pink-500 to-100% bg-clip-text leading-normal  relative'>AnimeRanked</span>
                             <img

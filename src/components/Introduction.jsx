@@ -17,8 +17,8 @@ function Introduction() {
                 </div>
 
                 <div className='xl:w-[400px] text-xl xl:text-2xl pl-6 pr-6 pt-6 text-center xl:text-left xl:px-[50px]'>
-                    <span className='xl:hidden'> <span className='font-extrabold'>Tervist!</span><br></br>Olen Kaspar Pavel ja teie olete jõudnud minu portfoolio peale. siin te tutvute veidi sellega, et kes ma olen, mida olen seniseni saavutanud ja mida mu oskused hõimavad</span>
-                    <span className='hidden xl:inline'><span className='font-extrabold'>Tervist!</span><br/><br/> Olen <span className='underline'>Kaspar Pavel</span> õpin praegu Tartu Rakenduslik Kolledžis tarkavaraarendust. <br/><br/> Mul on ülimalt hea meel on olete sattunud minu E-portfoolio peale siin te tutvute veidi kes ma olen, mida olen seniseni saavutanud ja mida mu oskused hõimavad <br/><br/> <span className='font-extrabold'>Enjoy!</span></span>
+                    <span className='xl:hidden'> <span className='font-extrabold'>Tervist!</span><br></br>Olen Kaspar Pavel ja teie olete jõudnud minu portfoolio peale. siin te tutvute veidi sellega, et kes ma olen, mida olen seniseni saavutanud ja mida mu oskused hõimavad.</span>
+                    <span className='hidden xl:inline'><span className='font-extrabold'>Tervist!</span><br/><br/> Olen <span className='underline'>Kaspar Pavel</span> õpin praegu Tartu Rakenduslik Kolledžis tarkavaraarendust. <br/><br/> Mul on ülimalt hea meel, et olete sattunud minu E-portfoolio peale siin te tutvute veidi sellega kes ma olen, mida olen seniseni saavutanud ja mida mu oskused hõimavad <br/><br/> <span className='font-extrabold'>Enjoy!</span></span>
                 </div>
             </div>
         </div>

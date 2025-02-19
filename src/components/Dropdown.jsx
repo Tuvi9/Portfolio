@@ -13,7 +13,7 @@ function Dropdown() {
                 </summary>
                 <div className='w-[325px] lg:w-[500px] pb-8 bg-purple-200 p-4'>
                     <img className=' rounded-2xl w-[300px] h-[200px] lg:w-[400px] lg:h-[300px] lg:justify-self-center' src='/EdTech.JPG'></img>
-                    <p className="pt-4 lg:text-xl">Viimati eelmine aasta 15.nov osalesid mina ja minu sõbrad võitslusel EdTech2024 kus me pidime looma inovaatilisi õppevahendeid. Peale kolme magamata päeva sündis InternHUB mis on startup millest olen osa veel praegugi.</p>
+                    <p className="pt-4 lg:text-xl">Viimati eelmine aasta 15.nov osalesin mina ja minu sõbrad võistlusel EdTech2024 kus me pidime looma inovaatilisi õppevahendeid. Peale kolme magamata päeva sündis InternHUB mis on startup millest olen osa veel praegugi.</p>
                 </div>
             </details>
         </div>
@@ -29,7 +29,7 @@ function Dropdown() {
                 </summary>
                 <div className='w-[325px] lg:w-[500px] pb-8 bg-pink-200 p-4'>
                     <img className='rounded-2xl w-[300px] h-[200px] lg:w-[400px] lg:h-[300px] lg:justify-self-center' src='/StarterTartu.png'></img>
-                    <p className="pt-4 lg:text-xl">StarterTartu oli esimest korda kus ma astusin juhirolli kus ma pitchisin oma idee Wisdiphy. Areng kestis sellel umbes 3-4 kuud ja kuigi sellest peale võistlust muud ei saanud õppisin ma palju kuidas meeskonda juhtida.</p>
+                    <p className="pt-4 lg:text-xl">StarterTartu oli esimest korda kus ma astusin juhirolli aastal 2023 kus ma pitchisin oma idee Wisdiphy. Meeskond koosnes 7 inimesest ja areng kestis umbes 3-4 kuud ja kuigi sellest peale võistlust muud ei saanud õppisin ma palju kuidas meeskonda juhtida.</p>
                 </div>
             </details>
         </div>
@@ -45,7 +45,7 @@ function Dropdown() {
                 </summary>
                 <div className='w-[325px] lg:w-[500px] pb-8 bg-purple-200 p-4'>
                     <img className='rounded-2xl w-[300px] h-[200px] lg:w-[400px] lg:h-[300px] lg:justify-self-center' src='/Noor_meister.PNG'></img>
-                    <p className="pt-4 lg:text-xl">Olen osa võtnud Noor Meistri ettevõtlusalaoskuste alal viimased kaks aastat viimati eelmine aasta sooritasin ma oma klassikaaslasega kõige parema tulemuse.</p>
+                    <p className="pt-4 lg:text-xl">Olen osa võtnud Noor Meistri ettevõtlusalaoskuste alal viimased kaks aastat viimati eelmine aasta sooritasin ma oma klassikaaslasega kõige parema tulemuse mis veelgi ühelgi aastal.</p>
                 </div>
             </details>
         </div>
